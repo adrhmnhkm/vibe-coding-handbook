@@ -1,7 +1,7 @@
 # Panduan Kontribusi
 
 Terima kasih sudah tertarik berkontribusi ke **Vibe Coding Handbook** 🙌  
-Proyek ini dirancang agar **pemula pun bisa ikut kontribusi**.
+Project ini dirancang biar **pemula pun bisa ikut kontribusi**.
 
 ---
 
