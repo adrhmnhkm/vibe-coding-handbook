@@ -1,0 +1,33 @@
+# Node / JS / TS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# Env & kredensial
+.env
+.env.*
+*.pem
+*.key
+*.crt
+
+# Build output
+dist/
+build/
+.next/
+.out/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Python (kalau ada)
+__pycache__/
+*.pyc
