@@ -1,8 +1,24 @@
-# Vibe Coding Handbook (Bahasa Indonesia)
+<h1 align="center">Vibe Coding Handbook</h1>
+
+<p align="center">
+  Build cepat. Deploy cepat. <br>
+  Tapi gak ada lagi drama API key bocor di GitHub
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-welcome-purple?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/contributions-welcome-blue?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-active-success?logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/made_for-beginner_coders-orange?logo=visualstudiocode&logoColor=white" />
+</p>
+
+
+
 
 > Panduan santai tapi serius untuk kamu yang suka ngoding pakai AI, biar tetap cepat **tanpa** bikin chaos, bocor kredensial, atau ngerusak server orang.
 
-## 🎯 Tujuan Proyek
+## 🎯 Tujuan 
 
 Banyak orang sekarang bikin aplikasi pakai AI:
 - ChatGPT, Gemini, Claude, dsb. nulis kodenya
